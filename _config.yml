@@ -1,25 +1,18 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your entire site, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve`. If you change this file, please restart the server process.
-
-
 # Site Settings
-locale                   : "en-US"
-title                    : Edison Chen
-title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
-name                     : Edison Chen
-description              : Edison Chen - Projects and CV 
-baseurl                  : "git add .
-git commit -m "<Commit Edit>"
-git push origin mainec876-design" # Set this to your repo name 
+locale: "en-US"
+title: "Edison Chen"
+title_separator: "-"
+subtitle:
+name: "Edison Chen"
+description: "Edison Chen - Projects and CV"
+
+# GitHub Pages URLs
+url: "https://cornell-mae-ug.github.io"
+baseurl: "/fa25-portfolio-ec876-design"   # repo name with leading slash
 
 # Theme and Style
 theme: jekyll-theme-minimal
-color_scheme: light # light/default, dark, or aqua
+color_scheme: light
 
 sass:
   style: compressed
@@ -39,7 +32,7 @@ markdown: kramdown
 kramdown:
   input: GFM
 
-# Plugins (previously gems:)
+# Plugins
 plugins:
   - jekyll-feed
   - jekyll-include-cache
