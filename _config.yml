@@ -13,7 +13,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : Edison Chen
 description              : Edison Chen - Projects and CV 
-baseurl                  : "" # Set this to your repo name 
+baseurl                  : "ec876-design" # Set this to your repo name 
 
 # Theme and Style
 theme: jekyll-theme-minimal
