@@ -13,7 +13,9 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : Edison Chen
 description              : Edison Chen - Projects and CV 
-baseurl                  : "ec876-design" # Set this to your repo name 
+baseurl                  : "git add .
+git commit -m "<Commit Edit>"
+git push origin mainec876-design" # Set this to your repo name 
 
 # Theme and Style
 theme: jekyll-theme-minimal
